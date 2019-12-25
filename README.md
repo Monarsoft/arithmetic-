@@ -1,2 +1,0 @@
-# arithmetic-
-算法
